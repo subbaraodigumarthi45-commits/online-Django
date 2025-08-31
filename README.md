@@ -1,3 +1,4 @@
+# Django Online Exam Platform
 
-# Online Django Project
-This repository is for my Django online exam platform.
+This is a Django-based online exam platform.  
+Starter code includes basic models, templates, and utilities.
